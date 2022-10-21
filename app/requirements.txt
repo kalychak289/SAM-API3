@@ -1,0 +1,12 @@
+click==8.0.1
+Flask==2.0.1
+gunicorn==20.1.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+Werkzeug==2.0.1
+NumPy==1.22.0
+pandas==1.5.0
+fsspec==2022.8.2
+s3fs==2022.8.2
+requests

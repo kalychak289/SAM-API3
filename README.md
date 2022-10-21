@@ -5,6 +5,12 @@ Technical Stack: Python, Flask, AWS Lambda, AWS API Gateway, plain html frontend
 This calculator shows how to use Lambda Adapter to run an Flask application on managed python runtime. 
 
 ### How does it work?
+Prerequisites:
+a. Docker Desktop
+b. SAM CLI
+c. AWS CLI
+d. Python 3.9
+e. AWS Account
 
 We add Lambda Adapter layer to the function and configure wrapper script. 
 
